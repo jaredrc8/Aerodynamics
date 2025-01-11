@@ -7,7 +7,7 @@ Potential Flow
 
 This assignment analyzed thin airfoil theory and potential flow. 
 Using potential flow theory, streamlines were calculated and visualized around a thin plate. 
-Kelvin's circulation theorem was proven and visualized in different airflow regimes. 
+Evidence of Kelvin's circulation theorem was visualized in different airflow regimes. 
 
 
 Vortex Panel Method
